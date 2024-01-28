@@ -1,9 +1,12 @@
 # uli's dots owo
 
-my personal dotfiles for sway
+my minimalist dotfiles repo
 
 ### software
 
 - OS: ArchLinux (x86\_64)
-- WM: Sway
+- WM: Sway & Hyprland
 - GPU DRIVER: NVIDIA (Proprietary)
+- Font: Fixedsys Excelsior
+- Launcher: tofi
+- Editor: neovim
